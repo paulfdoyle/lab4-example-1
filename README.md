@@ -1,1 +1,2 @@
-# lab4-example-1
+# docker-lab4
+Lab4 DockerFile Starter
